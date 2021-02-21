@@ -1,5 +1,5 @@
 ### Hi there 👋
-Check out my site at https://akshayx.xyz
+Check out my website at https://akshayx.xyz
 
 <!--
 **pixelexel/pixelexel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
